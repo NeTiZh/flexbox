@@ -20,3 +20,7 @@
 .justifyContentCenter{
     justify-content: center;
 }
+.alignItems{
+    flex-direction: column;
+    align-items: center;
+}
