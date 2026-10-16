@@ -1,0 +1,19 @@
+.box{
+    height: 40px;
+    width: 40px;
+    border: solid black 3px;
+    border-radius: 4px;
+    background-color: pink;
+    margin: 6px;
+}
+.exoContainer{
+    border-bottom: black 2px solid;
+    width: 100%;
+}
+.borderBottom{
+    border-bottom: black 2px solid;
+    display: flex;
+}
+.justifyContent{
+    justify-content: space-between;
+}
