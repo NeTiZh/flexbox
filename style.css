@@ -17,3 +17,6 @@
 .justifyContent{
     justify-content: space-between;
 }
+.justifyContentCenter{
+    justify-content: center;
+}
